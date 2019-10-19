@@ -1,0 +1,15 @@
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\bin\Debug\CodeFirstNorthwind.exe.config
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\bin\Debug\CodeFirstNorthwind.exe
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\bin\Debug\CodeFirstNorthwind.pdb
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\bin\Debug\EntityFramework.dll
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\bin\Debug\EntityFramework.xml
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\obj\Debug\CodeFirstNorthwind.csprojAssemblyReference.cache
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\obj\Debug\CodeFirstNorthwind.Properties.Resources.resources
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\obj\Debug\CodeFirstNorthwind.csproj.GenerateResource.cache
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\obj\Debug\CodeFirstNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\obj\Debug\CodeFirstNorthwind.csproj.CopyComplete
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\obj\Debug\CodeFirstNorthwind.exe
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\obj\Debug\CodeFirstNorthwind.pdb
+C:\Users\ITOPYA\source\repos\CodeFirstNorthwind\CodeFirstNorthwind\obj\Debug\CodeFirstNorthwind.Form1.resources
